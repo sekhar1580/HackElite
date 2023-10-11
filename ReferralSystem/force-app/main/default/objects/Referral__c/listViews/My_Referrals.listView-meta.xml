@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>My_Referrals</fullName>
+    <columns>NAME</columns>
+    <columns>Stage__c</columns>
+    <columns>Status__c</columns>
+    <columns>Revenue_Generated__c</columns>
+    <columns>Requirement_Id__c</columns>
+    <columns>Referred_By__c</columns>
+    <columns>Referred_By_Phone_No__c</columns>
+    <columns>Referral_No__c</columns>
+    <columns>Referral_Email_Id__c</columns>
+    <columns>Referral_Source__c</columns>
+    <columns>Referral_Id__c</columns>
+    <columns>Products_Services_Sold__c</columns>
+    <columns>Customer_Name__c</columns>
+    <columns>Customer_Email__c</columns>
+    <columns>Customer_Phone__c</columns>
+    <filterScope>Mine</filterScope>
+    <label>My Referrals</label>
+</ListView>
