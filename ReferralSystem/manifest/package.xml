@@ -12,5 +12,56 @@
         <members>Referral_Convertion</members>
         <name>Flow</name>
   </types>
+  
+   <types>       
+        <members>unfiled$public/EKeKMhCtyjJYyMIoNCVPDdFyvVLzEm</members>
+        <members>unfiled$public/FcNvrdGfuAZNRVHUjYxWSqzqzFyHiA</members>        
+        <name>Dashboard</name>
+  </types>
+ <types>
+        <members>unfiled$public/Referral_Score_dfS</members>
+        <members>unfiled$public/New_Requirements_with_Referrals_Report_fvl</members>
+        <members>unfiled$public/Referrals_By_Type</members>
+        <members>unfiled$public/Requirement_With_Referrals</members>
+        <name>Report</name>
+</types> 
+  <types>       
+        <members>Lets_Do_Business</members>
+        <name>CustomApplication</name>
+  </types>
+  <types>
+    <members>Contact.Contact_Type__c</members>
+    <members>Contact.Level__c</members>
+    <members>Contact.Languages__c</members>
+    <name>CustomField</name>
+</types>
+
+<types>
+    <members>Referral__c.Convert_Referral</members>
+    <members>Referral__c.Credit_Risk_Analysis</members>
+    <members>Referral__c.Referral_Consideration</members>
+    <members>Referral_Staging__c.Convert_to_Referral</members>   
+    <name>QuickAction</name>
+</types>
+<types>
+    <members>Referral__c.Active</members>
+    <members>Referral__c.Closed</members>
+    <name>RecordType</name>
+</types>
+<types>
+    <members>Referral_Staging__c.Referral_Staging_Duplicate_Rule_matching_rule</members>
+    <name>MatchingRule</name>
+</types>
+<types>
+    <members>Referral_Staging__c.Referral_Staging_Duplicate_Rule</members>
+    <name>DuplicateRule</name>
+</types>
+<types>
+    <members>Referral_Record_Page</members>
+    <members>Referral_Staging_Record_Page</members>
+    <name>FlexiPage</name>
+</types>
+
+
     <version>58.0</version>
 </Package>
